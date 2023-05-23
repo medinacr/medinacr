@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>An fullstack web application point-of-sale system using Javascript, Node.js, MongoDB, and EJS.</p>
+        <p>A fullstack web application point-of-sale system using Javascript, Node.js, MongoDB, and EJS.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">NewsSwipe</h3>
